@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>40A21F16-4200-4624-B15D-32248F53FA27</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WeWalkTestApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>985B5357FE82C623CC6D103E7DF3BC9FF446ED78</key>
+		<string>https://github.com/stmeow/we-walk-test</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WeWalkTestApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>985B5357FE82C623CC6D103E7DF3BC9FF446ED78</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/stmeow/we-walk-test</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>985B5357FE82C623CC6D103E7DF3BC9FF446ED78</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>985B5357FE82C623CC6D103E7DF3BC9FF446ED78</string>
+			<key>IDESourceControlWCCName</key>
+			<string>we-walk-test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
